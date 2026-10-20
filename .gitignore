@@ -1,0 +1,5 @@
+﻿desktop.ini
+*.class
+bin/
+out/
+.DS_Store
