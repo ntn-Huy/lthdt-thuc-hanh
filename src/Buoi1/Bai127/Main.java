@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai127;
+﻿package Bai127;
 
 public class Main {
     public static void main(String[] args) {

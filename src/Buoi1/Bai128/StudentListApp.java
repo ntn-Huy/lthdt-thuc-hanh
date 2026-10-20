@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai128;
+﻿package Bai128;
 
 import java.util.Scanner;
 

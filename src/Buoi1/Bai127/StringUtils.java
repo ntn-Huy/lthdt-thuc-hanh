@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai127;
+﻿package Bai127;
 
 public class StringUtils {
     public static boolean isBlank(String s) {

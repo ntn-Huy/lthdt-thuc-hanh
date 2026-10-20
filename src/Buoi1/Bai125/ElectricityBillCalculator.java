@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai125;
+﻿package Bai125;
 
 /**
  * Tinh tien dien sinh hoat theo bac thang (don gia gia dinh cho bai tap).

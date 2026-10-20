@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai121;
+﻿package Bai121;
 
 public class RectangleProcedural {
     static double area(double w, double h) { return w * h; }

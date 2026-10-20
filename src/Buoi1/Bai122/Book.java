@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai122;
+﻿package Bai122;
 
 public class Book {
     private String id;

@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai121;
+﻿package Bai121;
 
 public class RectangleApp {
     public static void main(String[] args) {

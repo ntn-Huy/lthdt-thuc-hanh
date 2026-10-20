@@ -1,4 +1,4 @@
-﻿package Buoi1.Bai126;
+﻿package Bai126;
 
 /**
  * Tien ich chuyen doi nhiet do giua do C va do F.
