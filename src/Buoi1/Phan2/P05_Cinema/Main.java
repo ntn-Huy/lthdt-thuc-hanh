@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P05_Cinema;
+﻿package Phan2.P05_Cinema;
 
 record SeatCode(char row, int col) {
     public SeatCode {

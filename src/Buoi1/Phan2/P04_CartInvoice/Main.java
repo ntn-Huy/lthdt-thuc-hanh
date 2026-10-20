@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P04_CartInvoice;
+﻿package Phan2.P04_CartInvoice;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P03_GradeAlert;
+﻿package Phan2.P03_GradeAlert;
 
 record CourseResult(String studentId, String courseCode, int credits, double qt, double gk, double ck) {
     public CourseResult {

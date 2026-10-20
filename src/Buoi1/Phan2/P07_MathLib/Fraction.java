@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P07_MathLib;
+﻿package Phan2.P07_MathLib;
 
 public record Fraction(long num, long den) {
     public Fraction {

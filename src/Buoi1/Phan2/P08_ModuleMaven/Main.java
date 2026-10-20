@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P08_ModuleMaven;
+﻿package Phan2.P08_ModuleMaven;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P06_Parking;
+﻿package Phan2.P06_Parking;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

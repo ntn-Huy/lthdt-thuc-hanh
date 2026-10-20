@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P02_EWallet;
+﻿package Phan2.P02_EWallet;
 
 public class Wallet {
     private final String phone;

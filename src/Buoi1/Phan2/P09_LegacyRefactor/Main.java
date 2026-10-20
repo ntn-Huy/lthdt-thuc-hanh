@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P09_LegacyRefactor;
+﻿package Phan2.P09_LegacyRefactor;
 
 public class Main {
     public static void main(String[] args) {

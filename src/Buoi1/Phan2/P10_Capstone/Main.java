@@ -1,4 +1,4 @@
-﻿package Buoi1.Phan2.P10_Capstone;
+﻿package Phan2.P10_Capstone;
 
 record TimeSlot(int dayOfWeek, int startPeriod, int numPeriods) {
     public boolean overlaps(TimeSlot other) {
